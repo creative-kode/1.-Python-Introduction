@@ -1,0 +1,43 @@
+It's practice time!
+
+Let's start the practice by solving the given project to improve our programming skills
+
+Our code needs to be executed to get results for that we use IDEs.
+
+List of ide(integrated development environment):
+
+IDLE
+PyCharm
+Jupyter notebook
+visual studio
+anaconda
+atom
+Sublime
+Spider
+Vim.
+You can download any of the IDE to practice python programs. IDLE and Jupyter notebook are best for beginners.
+
+Practice Question_1: 
+
+In school, a girl named Jessy wants to learn a poem that was taught by a teacher in school, but she doesn't remember all the lines of a poem.
+Can you help her to learn a poem by writing it in python and display it on the screen?.
+So that she can watch on the screen and practice so that she can easily learn it. 
+The poem is given below,
+
+Twinkle, twinkle, little star,
+How I wonder what you are!
+Up above the world so high,
+Like a diamond in the sky. 
+
+SOLUTION:
+
+print('Twinkle, twinkle, little star,')
+print('How I wonder what you are!')
+print('Up above the world so high,')
+print('Like a diamond in the sky.')
+
+OUTPUT:
+Twinkle, twinkle, little star,
+How I wonder what you are!
+Up above the world so high,
+Like a diamond in the sky.
