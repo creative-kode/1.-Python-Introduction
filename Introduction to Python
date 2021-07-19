@@ -1,0 +1,109 @@
+                        Welcome to CREATIVE KODE!
+
+
+" Hello, Buddy! are you thinking of learning Python Programming? "
+
+" Do you want to learn python in a fun and easy way! "
+
+" Do you want to practice coding with creative real-time examples? "
+
+" You want to become a professional in Python language?"
+
+Are you tired of searching multiple platforms? But still, feeling confusion while writing programs? or New to programming?
+
+Whatever it may be, don't worry you are in right place to start your journey with programming!
+
+
+Let's start our journey!
+
+Then, let's think about 
+
+What is python?
+
+In a simple definition, Python is a programming language.
+
+Python is very easy to learn and use.
+
+Even a beginner also learns python easily.
+
+Are you excited to write your first program!
+
+ok!
+
+Let's try a simple program in python,
+
+I want to greet this world, not in the normal way. But in a different way in coding language.
+
+Can we do this?. Ok! let's try 
+
+Hello World! 
+
+To print the above statement we need a function, that is print() function.
+
+The print() function prints the specified message to the screen.
+
+>>> print('Hello World!')
+
+Output: Hello World!
+
+In the above program to print Hello World! we used the print() function, and the text inside the print() function should be in either single quotes  ' ', or double quotes " ".
+
+We got some idea how to print anything using the print() function.
+
+Then try another simple program!
+
+Now tell the world that you started coding  
+
+" Today I started my coding life"
+
+>>> print(" Today I started my coding life")
+
+Output: Today I started my coding life
+
+After that tell the world about your experience with python!
+
+>>> print(' I wonder! python is very easy to learn and understand')
+
+Output: I wonder! python is very easy to learn and understand
+
+Ohh really!
+
+Happy to hear such a lovely experience with python, now let's put all the above statements together to make a simple context 
+
+>>> print('Hello World!')
+
+        print(" Today I started my coding life")
+
+        print(' I wonder! python is very easy to learn and understand')
+
+When we run the above simple code we will get the output as follows:
+
+Output: Hello World!
+
+            Today I started my coding life
+
+            I wonder! python is very easy to learn and understand
+
+ Wow, your first program is really awesome! 
+
+                          Your journey with python is going great :)
+
+
+
+Practice Question_1: 
+
+In school, a girl named Jessy wants to learn a poem that was taught by a teacher in school, but she doesn't remember all the lines of a poem. Can you help her to learn a poem by writing it in python and display it on the screen?. So that she can watch on the screen and practice so that she can easily learn it. The poem is given below,
+
+Twinkle, twinkle, little star,
+How I wonder what you are!
+Up above the world so high,
+Like a diamond in the sky. 
+   
+The answer to the practice question is available in the next post  
+
+                                        Please FOLLOW and COMMENT to publish more amazing posts
+
+                                                            Thanking You
+
+                                                         :) HAPPY LEARNING :)
+
